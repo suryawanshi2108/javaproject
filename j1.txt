@@ -1,2 +1,11 @@
-hi this is javaproject
-this my javaproject by using eclipse
+package javapkg;
+
+public class javaclass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+             System.out.println("hello");
+	}
+
+}		
+
